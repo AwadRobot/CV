@@ -1,0 +1,14 @@
+body  {background: lavender}
+hr { background: White;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 3%;
+   }
+
+h1{color: #66bbff;
+  
+
+  }
+h3{color: #66bbff; }
